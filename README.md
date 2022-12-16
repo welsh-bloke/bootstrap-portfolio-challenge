@@ -2,7 +2,8 @@
 
 ## Description
 
-This web page was created for the purpose of gaining experience working with modern CSS techniques, such as flexbox and CSS grid.
+This web page was created for the purpose of gaining experience Bootstrap. It is based on the finished web page from the previous
+challenge (portfolio challenge). The challenge was to recreate the web page by using and modifying Bootstrap's built in components.
 
 This web page was made responsive by using the following break points:
 
@@ -23,21 +24,17 @@ The application wa deployed to GitHub Pages using the following process:
 
 To view the app visit:
 
-https://welsh-bloke.github.io/portfolio-challenge/
+https://welsh-bloke.github.io/bootstrap-portfolio-challenge/
 
 The finished index.html page looks like the following screenshots:
 
 ## Large Screen
 
-<img src="./img/1201px-and-above.png" width="600">
+<img src="./img/large-screen.png" width="600">
 
-## 1200px Breakpoint
+## Small Screen
 
-<img src="./img/1200px-breakpoint.png" width="600">
-
-## 1000px Breakpoint
-
-<img src="./img/1000px-breakpoint.png" width="600">
+<img src="./img/small-screen.png" width="300">
 
 ## Credits
 
